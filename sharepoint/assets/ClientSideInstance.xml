@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="Pgheaderextensionspfx"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ComponentId="540fe698-11ac-4a8d-bab6-6b8acec92be2"
+        Properties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </ClientSideComponentInstance>
+</Elements>

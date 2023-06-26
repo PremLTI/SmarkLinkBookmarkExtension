@@ -1,0 +1,22 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.20.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.9.1"
+    },
+    "version": "1.17.2",
+    "libraryName": "pgheaderextension",
+    "libraryId": "c719c6c5-e72f-4162-94e5-47756d76e7aa",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "pgheaderextension",
+    "solutionShortDescription": "pgheaderextension description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
